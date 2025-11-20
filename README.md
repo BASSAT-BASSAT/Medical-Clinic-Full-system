@@ -482,7 +482,6 @@ This project is open source and available under the MIT License.
 
 **BASSAT** - Medical Clinic System Developer
 
-GitHub: https://github.com/BASSAT-BASSAT
 
 ---
 
